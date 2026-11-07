@@ -90,6 +90,14 @@ The screenshot below shows the Java Swing desktop interface, including panel con
 
 ![CNC Simulator Main Interface](screenshots/cnc-main-interface.png)
   
+## Design Documentation
+
+The project includes UML diagrams documenting
+its architecture and design:
+
+- [Class Diagram](docs/Diagramme%20de%20classe.svg)
+- [Use Case Diagram](docs/cas_utilisation.svg)
+- [Domain Model](docs/model_du_domaine.svg)
 
 ## Academic Project
 
