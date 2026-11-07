@@ -81,9 +81,15 @@ java -jar equipe10.jar
 
 Alternatively, double-click the JAR file if your operating system is configured to open executable JAR files with Java.
 
+
 ## Screenshots
 
-Screenshots of the application's graphical interface and CNC cutting simulations will be added here.
+### Main Application Interface
+
+The screenshot below shows the Java Swing desktop interface, including panel configuration, cutting tool management, restricted cutting zones, and the interactive visualization area.
+
+![CNC Simulator Main Interface](screenshots/cnc-main-interface.png)
+  
 
 ## Academic Project
 
